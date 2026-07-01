@@ -1,0 +1,6 @@
+{
+  "name": "Pronix Tv",
+  "description": "Premium IPTV streaming player with category browsing, search, favorites, history, and seamless Firebase Realtime Database integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
